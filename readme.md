@@ -154,6 +154,7 @@ curl --request POST 'http://127.0.0.1:8787/v1/chat/completions' \
 - **获取方式**: `process.env.SUPPORTED_MODELS
 
 ## Docker 部署说明
+非本人维护，docker_test分支含最新更改，未经验证
 
 ### 使用 Docker Compose（推荐）
 
